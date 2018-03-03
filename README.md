@@ -10,6 +10,6 @@ how to deploy this non-existing thing
 ## How to contribute
 please don't. it's dead.. let it me.
 ### Copyright
-copyright yeah
+copyright yeah, all reight reserved
 ## Thanks
 Thankss for rebasing! And more from the branch :)
