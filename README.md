@@ -8,3 +8,5 @@ to learn by doing
 how to deploy this non-existing thing
 ## How to contribute
 please don't. it's dead.. let it me.
+### Copyright
+copyright yeah
