@@ -4,4 +4,6 @@ A simple demo repository to show the basic Git workflow
 
 ## Purpose
 
+## Deployment
+
 ## How to contribute
