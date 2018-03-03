@@ -2,6 +2,7 @@
 A simple demo repository to show the basic Git workflow
 ## Introduction
 what an awesome intro
+change done in master branch
 ## Purpose
 to learn by doing
 ## Deployment
